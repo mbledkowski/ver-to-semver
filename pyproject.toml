@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "any-to-semver"
+version = "0.1.0"
+description = "Convert any version string to a semver string"
+authors = [{ name = "Dylan Cutler", email = "pub@mble.dk" }]
+license = "CC0-1.0"
