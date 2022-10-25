@@ -4,7 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ver-to-semver"
-version = "0.1.2"
+version = "0.1.3"
 description = "Convert any version string to a semver string"
 authors = [{ name = "Maciej Błędkowski", email = "pub@mble.dk" }]
 license = "CC0-1.0"
+readme = "README.md"
