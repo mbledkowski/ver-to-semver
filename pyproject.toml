@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "any-to-semver"
+name = "ver-to-semver"
 version = "0.1.0"
 description = "Convert any version string to a semver string"
 authors = [{ name = "Maciej Błędkowski", email = "pub@mble.dk" }]
